@@ -5,6 +5,7 @@ public static void main(String args[]){
 ArrayList<String> al = new ArrayList<String>();
 
 al.add("do");
+al.add("do2");
 al.add("re");
 al.add("meena");
 al.add("fa");
